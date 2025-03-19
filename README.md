@@ -14,3 +14,5 @@ develop → Latest development changes (integration branch).
 feature/* → New features (branched from develop).
 release/* → Prepares for release (branched from develop).
 hotfix/* → Emergency fixes (branched from main).
+
+![image](https://github.com/user-attachments/assets/ed0be2e2-c2e8-4cc1-a6a7-cc934e8b5c15)
